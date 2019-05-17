@@ -1,0 +1,6 @@
+CREATE REACT APP
+
+npm i -g create-react-app
+create-react-app [Nome da pasta]
+
+npm build
